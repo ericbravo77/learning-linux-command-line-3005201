@@ -1,0 +1,4 @@
+This is my journal entry
+ It is a great entry
+ It is not empty
+
