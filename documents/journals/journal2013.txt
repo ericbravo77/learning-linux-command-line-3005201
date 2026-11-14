@@ -2,4 +2,8 @@ This is my 2013 journal
  I am now a Colonel
  I am like Colonel Sanders
  11 herbs and spices
+	
+
+	The transport layer of the OSI model is where IP/TCP functions. We have to remember the internet is a network of networks where agreements must be arranged in order for data traffic to flow between networks and hosts.
+
 
