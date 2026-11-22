@@ -10,3 +10,6 @@
     10	Tell that its sculptor well those passions read
 
      Hello World!
+     
+	Joe James plays Centerfield. He had a batting average of .298 
+	with 19 Homeruns and 17 stolen bases. He played in 119 games.
