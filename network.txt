@@ -1,3 +1,0 @@
-Networks
-The star topology is the most common basic topology in modern networking according to an IT expert.
-
